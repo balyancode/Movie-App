@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+ */
+.card{
+  border: 1px solid rgb(250, 247, 247);
+  box-shadow: 1px 4px 5px 0 rgb(231, 222, 222);
+}
+.navlink{
+  box-shadow: 1px 4px 5px 0 rgb(231, 222, 222);
+}
+  
